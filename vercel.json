@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {"source": "/rider", "destination": "/rider/index.html"},
+    {"source": "/chauffeur", "destination": "/chauffeur/index.html"},
+    {"source": "/corporate", "destination": "/corporate/index.html"},
+    {"source": "/ops", "destination": "/ops/index.html"},
+    {"source": "/partner", "destination": "/partner/index.html"},
+    {"source": "/support", "destination": "/support/index.html"},
+    {"source": "/finance", "destination": "/finance/index.html"},
+    {"source": "/analytics", "destination": "/analytics/index.html"},
+    {"source": "/legal/terms", "destination": "/legal/terms.html"}
+  ]
+}
